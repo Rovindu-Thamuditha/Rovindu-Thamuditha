@@ -20,13 +20,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rovindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rovindu" height="30" width="40" /></a>
+
 <a href="https://twitter.com/rovinduthamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rovinduthamu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16718979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16718979" height="30" width="40" /></a>
 <a href="https://fb.com/rovindu thamuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rovindu thamuditha" height="30" width="40" /></a>
 <a href="https://instagram.com/__.rovindu.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.rovindu.__" height="30" width="40" /></a>
-<a href="https://medium.com/@rovinduthamuditha0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rovinduthamuditha0" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tips tricks solutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tips tricks solutions" height="30" width="40" /></a>
+ <a href="https://dev.to/rovindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rovindu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/tipstrickssolutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tips tricks solutions" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
