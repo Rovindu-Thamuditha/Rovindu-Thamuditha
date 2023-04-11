@@ -1,6 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rovindu.ml)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://rovindu.ml)
 <h1 align="center">Hi 👋, I'm Rovindu Thamuditha</h1>
 <h3 align="center">A Full Stack developer from Sri Lanka</h3>
+add Right Gif Image
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rovindu-thamuditha&label=Profile%20views&color=0e75b6&style=flat" alt="rovindu-thamuditha" /> </p>
 
@@ -33,7 +35,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tipstri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tipstri" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rovindu-thamuditha&show_icons=true&locale=en&layout=compact" alt="rovindu-thamuditha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rovindu-thamuditha&show_icons=true&locale=en" alt="rovindu-thamuditha" /></p>
 
